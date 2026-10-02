@@ -3,6 +3,7 @@
 ## Overview
 Analysis of 9,994 retail orders to find which products, regions and
 discount levels drive profit and loss. Tools: Python (pandas), MySQL, Power BI.
+![Dashboard](dashboard.png)
 
 ## Process
 1. Python: loaded the data, checked for missing values and duplicates,
